@@ -41,7 +41,7 @@ def load_temperature_data():
     )
 
     # Print columns for debugging
-    print("Columns found:", df.columns)
+   # print("Columns found:", df.columns)
 
     # Ensure required columns exist
     required_columns = {"YYYY", "YEAR"}

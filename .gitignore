@@ -1,2 +1,9 @@
+.gitignore
 streamlit-app/Untitled.ipynb
 .ipynb_checkpoints/*
+.utils/ipynb_checkpoints/*
+.utils/__pycache__
+/streamlit-app/utils/__pycache__
+/streamlit-app/utils/.ipynb_checkpoints
+/streamlit-app/.ipynb_checkpoints
+/streamlit-app/utils/.ipynb_checkpoints
